@@ -1,2 +1,3 @@
 # phoenix
-VLSI FPGA Based smart Traffic 
+FPGA-Based Intelligent Traffic Light 
+Controller With Emergency & Pedestrian Priority 
